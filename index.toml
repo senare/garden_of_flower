@@ -1,0 +1,110 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "a2fba638de009bc90811fd1510a913bcdd090ccbb6424ccb062d882d4700c45f"
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "0ba3d1816450df6688dd4904c0c86dde68cd13e564fe3fb0b54e8c707e0b5ba3"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.toml"
+hash = "534ac3ac2568cbd0b1d602cbfa378708717b83218a49a6ee96c421a8ce73fa3d"
+metafile = true
+
+[[files]]
+file = "mods/botania-garden-of-glass.toml"
+hash = "223af6385c50b906cc5f83ecab115e9d4cb43a435742505aee6f06f7ebc89333"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "6a64fad084bf8ef066077aaa393c6b2b1e50d76860d589581d9cf62f392bb795"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4a45496d6a0cd4cd445e300791af4473587864d20024d8c1bd032e763c36b698"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "c94fbad1b3dd7973d2b0f33b03b4683875a0f95ffe0db3be4c90a946a29bb353"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "08cf57c2cae5fff7f0b8d043c45df07893ea01734a6486f9ca94caae741ea351"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "de83c79e0a715b835f82583a02933a7342b2bc68cd23007ec9cf501ede81a84f"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "b45e2619d9aa54605762b9908e949d6e0cc41634cb9304f8b3ef099d8d6e7d06"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "f291cfa3dc4468318494015a4d695f66a22356355aa0122b2fbb7c1407ffdde0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "c3c7bf02d0049dd3a0b8ed54f1a5eac6b16c35356c0fd000d36291adf762cdee"
+metafile = true
+
+[[files]]
+file = "mods/wthit-plugins.toml"
+hash = "e07ebac560f60edd40a74d71ca5d04bb251c8fad809819807312328ccd36eecb"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "2d2e610a39c8802ae2899fe6ee6f81c84562ea54629e8fb7337f3abee8cf4bc3"
+metafile = true

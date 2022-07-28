@@ -1,0 +1,13 @@
+name = "Architectury API (Fabric)"
+filename = "architectury-3.7.42.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3742/406/architectury-3.7.42.jar"
+hash-format = "sha1"
+hash = "85d01ba4c23e6e7347a1d3a093219cd6b8871013"
+
+[update]
+[update.curseforge]
+file-id = 3742406
+project-id = 419697
